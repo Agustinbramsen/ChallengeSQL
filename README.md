@@ -4,9 +4,13 @@ Debe tener instalado MySQL, dejo challenge realizado con sus ejercios correspond
 
 ### Introducción
 Creacion de la tabla.
+
 La carga de los registros.
+
 Query que resulve el problema.
+
 Borrado de la tabla creada.
+
 Motor Utilizado para el challenge: MySQL WorkBench.
 
 ### Devolucion
