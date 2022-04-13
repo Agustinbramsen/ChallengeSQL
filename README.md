@@ -14,7 +14,7 @@ Borrado de la tabla creada.
 Motor utilizado para el challenge: MySQL WorkBench.
 
 ### Devolucion
-Al respecto de los ejercios fueron consultas simples, pero detalle a comentar la query del ejercicio 15 me hizo volver a re leer unos manuales.
+Al respecto de los ejercios fueron consultas simples, pero detalle a comentar la query del ejercicio 15 me hizo volver a re leer unos manuales encontre dos formas para plantearlo adjunto ambas.
 
 ### Despedida👏🏼
 Saludos!
