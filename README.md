@@ -1,6 +1,6 @@
 ### Bienvenido al repositorio de Agustin Bramsen! 👨🏼‍💻
 
-Debe tener instalado MySQL, dejo challenge realizado con sus ejercios correspondiente.
+Dejo challenge realizado con sus ejercios correspondiente.
 
 ### Introducción
 Creacion de la tabla.
