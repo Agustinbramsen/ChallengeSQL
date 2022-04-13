@@ -1,6 +1,6 @@
 ### Bienvenido al repositorio de Agustin Bramsen! 👨🏼‍💻
 
-Dejo challenge realizado con sus ejercios correspondiente.
+Dejo challenge realizado con sus ejercicios correspondiente.
 
 ### Introducción
 Creacion de la tabla.
